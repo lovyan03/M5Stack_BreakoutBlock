@@ -5,13 +5,17 @@ M5Stack game
   
 ![image](https://github.com/lovyan03/M5Stack_BreakoutBlock/blob/master/image/img_001.jpg)  
   
-## Usage
+## How to play
+You can play with the FACES encoder panel.  
+ `Left / Right turn` : Move bar.  
+ `Hold down and Left/Right turn` : Adjust shoot angle.  
+ `Hold release` : Shoot ball.  
+ `PowerSW click` : Restart.  
+  
+If you don't have an encoder panel.  
  `BtnA / BtnC hold` : Move bar.  
  `BtnB hold and BtnA / BtnC hold` : Adjust shoot angle.  
  `BtnB release` : Shoot ball.  
- `PowerSW click` : Restart.  
-  
-support FACES Encoder / FACES Gameboy
   
 ## Requirement
 
